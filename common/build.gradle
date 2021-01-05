@@ -23,7 +23,7 @@ dependencies {
         exclude(module: 'checker-qual')
         exclude(module: 'guava')
     }
-    compile('org.spongepowered:configurate-yaml:3.7') {
+    compile('org.spongepowered:configurate-yaml:4.0.0') {
         exclude(module: 'checker-qual')
         exclude(module: 'snakeyaml')
     }

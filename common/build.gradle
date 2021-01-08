@@ -17,7 +17,7 @@ dependencies {
     compile 'com.google.guava:guava:19.0'
     compile 'com.github.ben-manes.caffeine:caffeine:2.8.4'
     compile 'com.squareup.okhttp3:okhttp:3.14.7'
-    compile 'com.squareup.okio:okio:1.17.5'
+    compile 'com.squareup.okio:okio:2.10.0'
     compile 'net.bytebuddy:byte-buddy:1.10.9'
     compile('org.spongepowered:configurate-core:3.7') {
         exclude(module: 'checker-qual')
